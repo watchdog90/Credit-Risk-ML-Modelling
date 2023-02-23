@@ -6,4 +6,4 @@
 <br> 4.How evaluate the ML model performance?
 
 ## Python and Data Analytics modules:
-<br> scikit-learn, numpy, pandas
+scikit-learn, numpy, pandas
