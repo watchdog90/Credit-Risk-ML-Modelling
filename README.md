@@ -4,3 +4,6 @@
 <br> 2.What'd the credit data processing process?
 <br> 3.How to implement different ML models to analyse the credit risk?
 <br> 4.How evaluate the ML model performance?
+
+## Python and Data Analytics modules:
+<br> scikit-learn, numpy, pandas
